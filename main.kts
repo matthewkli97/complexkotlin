@@ -66,11 +66,8 @@ class Command(val prompt: String) {
     }
 }
 
-/* 
-
-
 // ================================
-*/                                        
+                                  
 println("map fold test: " + if (mapFoldResults == "FIZZBUZZFIZZFIZZBUZZFIZZFIZZBUZZ") "." else "!")
  
 println("r1 test: " + if (r1 == ">>> FOO: {BAR}") "." else "!")
